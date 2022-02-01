@@ -10,4 +10,3 @@
 
     window.byeSpeaker = byeSpeaker;
 })(window);
-
